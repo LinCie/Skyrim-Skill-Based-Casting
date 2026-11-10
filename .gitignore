@@ -1,0 +1,12 @@
+/build/
+/vcpkg_installed/
+/dist/
+/.vs/
+/.idea/
+*.user
+*.suo
+*.pdb
+*.ilk
+*.log
+*.dll
+*.zip
